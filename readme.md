@@ -33,6 +33,6 @@ pip install -r requirements.txt
 
 ### 4. Run the Script
 
-Save the provided Python code into a file named compare_abstracts.py and run it.
+Save the provided Python code into a file named app.py and run it.
 
 # python app.py
